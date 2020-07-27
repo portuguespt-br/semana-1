@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial';
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #0a3d62;
+}
+
+.divA {
+        color: white;
+        background-color: #0a3d62;
+        font-size: 20px;
+}
+
+.texto1 {
+    margin: 20px;
+    border: 0px;
+    padding: 10px;
+}
